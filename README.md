@@ -59,7 +59,7 @@ The simulation follows the typical hydrogen production route:
 ### Steam Methane Reforming (SMR)
 
 \[
-CH_4 + H_2O \rightarrow CO + 3H_2
+CH_4 + H_2O --> CO + 3H_2
 \]
 
 This highly endothermic reaction produces synthesis gas (syngas).
@@ -69,7 +69,7 @@ This highly endothermic reaction produces synthesis gas (syngas).
 ### Water-Gas Shift Reaction (WGS)
 
 \[
-CO + H_2O \rightarrow CO_2 + H_2
+CO + H_2O --> CO_2 + H_2
 \]
 
 The shift reactor converts carbon monoxide into additional hydrogen.
@@ -132,6 +132,7 @@ Hydrogen-Production-DWSIM/
 └── images/
     └── flowsheet.png   (optional)
 ```
+<img width="1261" height="375" alt="image" src="https://github.com/user-attachments/assets/03ea8998-ec22-4dfc-90b4-1b5cca56bcdb" />
 
 ---
 
